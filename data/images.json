@@ -1,0 +1,110 @@
+[
+  {
+    "id": "macro-dahlia",
+    "title": "Macro Dahlia at Golden Hour",
+    "category": "Macro",
+    "src": "/images/gallery/dahlia.jpg",
+    "srcset": [
+      "/images/gallery/dahlia-800.jpg 800w",
+      "/images/gallery/dahlia-1600.jpg 1600w"
+    ],
+    "alt": "Tight macro of a pink dahlia with golden backlight and soft bokeh",
+    "exif": {
+      "iso": 200,
+      "aperture": "f/2.8",
+      "shutter": "1/320",
+      "focal": "90mm"
+    },
+    "story": "Chased the rim light just before sunset to isolate the petals."
+  },
+  {
+    "id": "night-milkyway",
+    "title": "Milky Way Over Brazilian Highlands",
+    "category": "Night",
+    "src": "/images/gallery/milkyway.jpg",
+    "srcset": [
+      "/images/gallery/milkyway-800.jpg 800w",
+      "/images/gallery/milkyway-1600.jpg 1600w"
+    ],
+    "alt": "Long exposure of the Milky Way stretching across a dark sky above silhouetted mountains",
+    "exif": {
+      "iso": 3200,
+      "aperture": "f/1.8",
+      "shutter": "25s",
+      "focal": "24mm"
+    },
+    "story": "Waited for moonset to capture the core in all its glory."
+  },
+  {
+    "id": "wildlife-toucan",
+    "title": "Toco Toucan in Morning Light",
+    "category": "Wildlife",
+    "src": "/images/gallery/toucan.jpg",
+    "srcset": [
+      "/images/gallery/toucan-800.jpg 800w",
+      "/images/gallery/toucan-1600.jpg 1600w"
+    ],
+    "alt": "Portrait of a Toco toucan perched on a branch with soft morning light",
+    "exif": {
+      "iso": 800,
+      "aperture": "f/4.0",
+      "shutter": "1/500",
+      "focal": "300mm"
+    },
+    "story": "Patient observation paid off with this intimate portrait."
+  },
+  {
+    "id": "macro-dewdrop",
+    "title": "Dewdrop Reflection",
+    "category": "Macro",
+    "src": "/images/gallery/dewdrop.jpg",
+    "srcset": [
+      "/images/gallery/dewdrop-800.jpg 800w",
+      "/images/gallery/dewdrop-1600.jpg 1600w"
+    ],
+    "alt": "Extreme macro of a water droplet on a leaf reflecting the forest beyond",
+    "exif": {
+      "iso": 400,
+      "aperture": "f/5.6",
+      "shutter": "1/160",
+      "focal": "105mm"
+    },
+    "story": "Found this tiny world within a single drop at dawn."
+  },
+  {
+    "id": "night-fireflies",
+    "title": "Firefly Trails at Dusk",
+    "category": "Night",
+    "src": "/images/gallery/fireflies.jpg",
+    "srcset": [
+      "/images/gallery/fireflies-800.jpg 800w",
+      "/images/gallery/fireflies-1600.jpg 1600w"
+    ],
+    "alt": "Light trails from fireflies creating luminous patterns against darkening forest",
+    "exif": {
+      "iso": 1600,
+      "aperture": "f/2.0",
+      "shutter": "15s",
+      "focal": "35mm"
+    },
+    "story": "Stacked multiple exposures to capture nature's own light show."
+  },
+  {
+    "id": "wildlife-jaguar",
+    "title": "Jaguar in Pantanal Shadows",
+    "category": "Wildlife",
+    "src": "/images/gallery/jaguar.jpg",
+    "srcset": [
+      "/images/gallery/jaguar-800.jpg 800w",
+      "/images/gallery/jaguar-1600.jpg 1600w"
+    ],
+    "alt": "Jaguar emerging from dappled forest shadows with intense gaze",
+    "exif": {
+      "iso": 1600,
+      "aperture": "f/4.0",
+      "shutter": "1/250",
+      "focal": "400mm"
+    },
+    "story": "A rare encounter in the Pantanal wetlands at golden hour."
+  }
+]

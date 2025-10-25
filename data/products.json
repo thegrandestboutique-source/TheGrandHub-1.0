@@ -1,0 +1,62 @@
+[
+  {
+    "id": "product-dahlia",
+    "title": "Macro Dahlia — Fine Art Print",
+    "image": "/images/shop/dahlia-print.jpg",
+    "category": "Macro",
+    "description": "Golden hour macro capturing delicate petal details and soft bokeh",
+    "priceRange": "$15-$45",
+    "redbubbleUrl": "https://www.redbubble.com/people/lorenzolds/shop",
+    "tags": ["macro", "flower", "print", "wall-art"]
+  },
+  {
+    "id": "product-milkyway",
+    "title": "Milky Way — Canvas Print",
+    "image": "/images/shop/milkyway-print.jpg",
+    "category": "Night",
+    "description": "Breathtaking night sky over Brazilian highlands",
+    "priceRange": "$25-$65",
+    "redbubbleUrl": "https://www.redbubble.com/people/lorenzolds/shop",
+    "tags": ["night", "milky-way", "canvas", "astronomy"]
+  },
+  {
+    "id": "product-toucan",
+    "title": "Toco Toucan — Metal Print",
+    "image": "/images/shop/toucan-print.jpg",
+    "category": "Wildlife",
+    "description": "Intimate portrait of Brazil's iconic bird in morning light",
+    "priceRange": "$30-$75",
+    "redbubbleUrl": "https://www.redbubble.com/people/lorenzolds/shop",
+    "tags": ["wildlife", "bird", "toucan", "metal-print"]
+  },
+  {
+    "id": "product-dewdrop",
+    "title": "Dewdrop World — Fine Art Print",
+    "image": "/images/shop/dewdrop-print.jpg",
+    "category": "Macro",
+    "description": "A universe reflected in a single morning dewdrop",
+    "priceRange": "$15-$45",
+    "redbubbleUrl": "https://www.redbubble.com/people/lorenzolds/shop",
+    "tags": ["macro", "nature", "abstract", "print"]
+  },
+  {
+    "id": "product-fireflies",
+    "title": "Firefly Trails — Canvas Print",
+    "image": "/images/shop/fireflies-print.jpg",
+    "category": "Night",
+    "description": "Nature's bioluminescent dance captured at dusk",
+    "priceRange": "$25-$65",
+    "redbubbleUrl": "https://www.redbubble.com/people/lorenzolds/shop",
+    "tags": ["night", "fireflies", "long-exposure", "canvas"]
+  },
+  {
+    "id": "product-jaguar",
+    "title": "Pantanal Jaguar — Metal Print",
+    "image": "/images/shop/jaguar-print.jpg",
+    "category": "Wildlife",
+    "description": "Rare moment with Brazil's apex predator in its natural habitat",
+    "priceRange": "$30-$75",
+    "redbubbleUrl": "https://www.redbubble.com/people/lorenzolds/shop",
+    "tags": ["wildlife", "jaguar", "pantanal", "metal-print"]
+  }
+]
