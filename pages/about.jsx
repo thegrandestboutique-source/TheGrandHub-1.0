@@ -124,7 +124,7 @@ export default function About() {
                 However, all <strong>photographs are copyrighted © Lorenzo LDS</strong>. 
                 They may not be used, reproduced, or distributed without explicit permission.
               </p>
-              
+              <a
                 href="https://github.com/thegrandestboutique-source/TheGrandHub-1.0"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -169,7 +169,7 @@ export default function About() {
           <p className="mb-6 opacity-70">
             Have questions or interested in custom prints?
           </p>
-          
+          <a
             href="mailto:thegrandestboutique@gmail.com"
             className="inline-block px-8 py-3 border-2 rounded-md hover:opacity-80 transition-opacity"
             style={{ 
