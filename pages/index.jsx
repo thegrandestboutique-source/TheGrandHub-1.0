@@ -81,9 +81,9 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Macro */}
           <Link href="/gallery?filter=Macro" className="group">
-            <div className="aspect-square relative overflow-hidden rounded-lg mb-4">
+            <div className="aspect-square relative overflow-hidden rounded-lg mb-4 transition-transform duration-500 group-hover:scale-105">
               <div 
-                className="w-full h-full transition-transform duration-500 group-hover:scale-110"
+                className="w-full h-full"
                 style={{
                   backgroundImage: 'url(/images/gallery/diabeetus.jpg)',
                   backgroundSize: 'cover',
@@ -101,9 +101,9 @@ export default function Home() {
 
           {/* Wildlife */}
           <Link href="/gallery?filter=Wildlife" className="group">
-            <div className="aspect-square relative overflow-hidden rounded-lg mb-4">
+            <div className="aspect-square relative overflow-hidden rounded-lg mb-4 transition-transform duration-500 group-hover:scale-105">
               <div 
-                className="w-full h-full transition-transform duration-500 group-hover:scale-110"
+                className="w-full h-full"
                 style={{
                   backgroundImage: 'url(/images/gallery/cute_bnw_zilda.jpg)',
                   backgroundSize: 'cover',
@@ -121,9 +121,9 @@ export default function Home() {
 
           {/* Night */}
           <Link href="/gallery?filter=Night" className="group">
-            <div className="aspect-square relative overflow-hidden rounded-lg mb-4">
+            <div className="aspect-square relative overflow-hidden rounded-lg mb-4 transition-transform duration-500 group-hover:scale-105">
               <div 
-                className="w-full h-full transition-transform duration-500 group-hover:scale-110"
+                className="w-full h-full"
                 style={{
                   backgroundImage: 'url(/images/gallery/upwards_zilda.jpg)',
                   backgroundSize: 'cover',
