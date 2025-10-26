@@ -1,110 +1,218 @@
 [
   {
-    "id": "abstract-earth",
+    "id": "mumbojumbo-zilda",
     "title": "Abstract Earth",
     "category": "Macro",
-    "src": "images/gallery/mumbojumbo_zilda.jpg",
+    "src": "/images/gallery/mumbojumbo_zilda.jpg",
     "srcset": [
-      "images/gallery/mumbojumbo_zilda-800.jpg 800w",
-      "images/gallery/mumbojumbo_zilda-1600.jpg 1600w"
+      "/images/gallery/mumbojumbo_zilda.jpg 800w",
+      "/images/gallery/mumbojumbo_zilda.jpg 1600w"
     ],
-    "alt": "An abstract representation of stones",
+    "alt": "Abstract representation of stones and earth textures",
     "exif": {
-      "iso": 200,
-      "aperture": "f/2.8",
-      "shutter": "1/320",
-      "focal": "90mm"
+      "iso": 400,
+      "aperture": "f/5.6",
+      "shutter": "1/200",
+      "focal": "50mm"
     },
-    "story": "After a tough climb, the air felt thin and cold. In my desperation to grasp oxygen, I laid on the flattest place available. After recuperating, I noticed an angle. Took the camera, and 'Click!'"
+    "story": "Placeholder story - add your photo description here."
   },
   {
-    "id": "night-milkyway",
+    "id": "oranges",
     "title": "Milky Way Over Brazilian Highlands",
     "category": "Night",
     "src": "/images/gallery/oranges.jpg",
     "srcset": [
-      "/images/gallery/oranges-800.jpg 800w",
-      "/images/gallery/oranges-1600.jpg 1600w"
+      "/images/gallery/oranges.jpg 800w",
+      "/images/gallery/oranges.jpg 1600w"
     ],
-    "alt": "Long exposure of the Milky Way stretching across a dark sky above silhouetted mountains",
+    "alt": "Night sky photography with stars",
     "exif": {
       "iso": 3200,
-      "aperture": "f/1.8",
-      "shutter": "25s",
+      "aperture": "f/2.8",
+      "shutter": "20s",
       "focal": "24mm"
     },
-    "story": "Waited for moonset to capture the core in all its glory."
+    "story": "Placeholder story - add your photo description here."
   },
   {
-    "id": "wildlife-toucan",
-    "title": "Toco Toucan in Morning Light",
-    "category": "Wildlife",
+    "id": "remela-zilda",
+    "title": "Morning Gaze",
+    "category": "Pets",
     "src": "/images/gallery/remela_zilda.jpg",
     "srcset": [
-      "/images/gallery/remela_zilda-800.jpg 800w",
-      "/images/gallery/remela_zilda-1600.jpg 1600w"
+      "/images/gallery/remela_zilda.jpg 800w",
+      "/images/gallery/remela_zilda.jpg 1600w"
     ],
-    "alt": "Portrait of a Toco toucan perched on a branch with soft morning light",
+    "alt": "Close-up pet portrait",
     "exif": {
       "iso": 800,
       "aperture": "f/4.0",
-      "shutter": "1/500",
-      "focal": "300mm"
+      "shutter": "1/250",
+      "focal": "85mm"
     },
-    "story": "Patient observation paid off with this intimate portrait."
+    "story": "Placeholder story - add your photo description here."
   },
   {
-    "id": "macro-dewdrop",
-    "title": "Dewdrop Reflection",
-    "category": "Macro",
-    "src": "/images/gallery/dewdrop.jpg",
+    "id": "attentive-zilda",
+    "title": "Attentive",
+    "category": "Pets",
+    "src": "/images/gallery/attentive_zilda.jpg",
     "srcset": [
-      "/images/gallery/dewdrop-800.jpg 800w",
-      "/images/gallery/dewdrop-1600.jpg 1600w"
+      "/images/gallery/attentive_zilda.jpg 800w",
+      "/images/gallery/attentive_zilda.jpg 1600w"
     ],
-    "alt": "Extreme macro of a water droplet on a leaf reflecting the forest beyond",
+    "alt": "Pet looking attentive",
+    "exif": {
+      "iso": 400,
+      "aperture": "f/2.8",
+      "shutter": "1/320",
+      "focal": "50mm"
+    },
+    "story": "Placeholder story - add your photo description here."
+  },
+  {
+    "id": "cute-bnw-zilda",
+    "title": "Black & White Portrait",
+    "category": "Pets",
+    "src": "/images/gallery/cute_bnw_zilda.jpg",
+    "srcset": [
+      "/images/gallery/cute_bnw_zilda.jpg 800w",
+      "/images/gallery/cute_bnw_zilda.jpg 1600w"
+    ],
+    "alt": "Black and white pet portrait",
+    "exif": {
+      "iso": 800,
+      "aperture": "f/2.0",
+      "shutter": "1/160",
+      "focal": "50mm"
+    },
+    "story": "Placeholder story - add your photo description here."
+  },
+  {
+    "id": "sleepy-zilda",
+    "title": "Sleepy Time",
+    "category": "Pets",
+    "src": "/images/gallery/sleepy_zilda.jpg",
+    "srcset": [
+      "/images/gallery/sleepy_zilda.jpg 800w",
+      "/images/gallery/sleepy_zilda.jpg 1600w"
+    ],
+    "alt": "Pet sleeping peacefully",
+    "exif": {
+      "iso": 1600,
+      "aperture": "f/2.8",
+      "shutter": "1/125",
+      "focal": "50mm"
+    },
+    "story": "Placeholder story - add your photo description here."
+  },
+  {
+    "id": "shy-zilda",
+    "title": "Shy Moment",
+    "category": "Pets",
+    "src": "/images/gallery/shy_zilda.jpg",
+    "srcset": [
+      "/images/gallery/shy_zilda.jpg 800w",
+      "/images/gallery/shy_zilda.jpg 1600w"
+    ],
+    "alt": "Pet in a shy pose",
+    "exif": {
+      "iso": 400,
+      "aperture": "f/4.0",
+      "shutter": "1/200",
+      "focal": "85mm"
+    },
+    "story": "Placeholder story - add your photo description here."
+  },
+  {
+    "id": "annoyed-zelda",
+    "title": "Annoyed",
+    "category": "Pets",
+    "src": "/images/gallery/annoyed_zelda.jpg",
+    "srcset": [
+      "/images/gallery/annoyed_zelda.jpg 800w",
+      "/images/gallery/annoyed_zelda.jpg 1600w"
+    ],
+    "alt": "Pet with annoyed expression",
+    "exif": {
+      "iso": 800,
+      "aperture": "f/2.8",
+      "shutter": "1/250",
+      "focal": "50mm"
+    },
+    "story": "Placeholder story - add your photo description here."
+  },
+  {
+    "id": "upwards-zilda",
+    "title": "Looking Up",
+    "category": "Pets",
+    "src": "/images/gallery/upwards_zilda.jpg",
+    "srcset": [
+      "/images/gallery/upwards_zilda.jpg 800w",
+      "/images/gallery/upwards_zilda.jpg 1600w"
+    ],
+    "alt": "Pet looking upwards",
+    "exif": {
+      "iso": 640,
+      "aperture": "f/4.0",
+      "shutter": "1/200",
+      "focal": "50mm"
+    },
+    "story": "Placeholder story - add your photo description here."
+  },
+  {
+    "id": "parrot-zilda",
+    "title": "Parrot Friend",
+    "category": "Wildlife",
+    "src": "/images/gallery/parrot_zilda.jpg",
+    "srcset": [
+      "/images/gallery/parrot_zilda.jpg 800w",
+      "/images/gallery/parrot_zilda.jpg 1600w"
+    ],
+    "alt": "Brazilian parrot portrait",
+    "exif": {
+      "iso": 800,
+      "aperture": "f/5.6",
+      "shutter": "1/500",
+      "focal": "200mm"
+    },
+    "story": "Placeholder story - add your photo description here."
+  },
+  {
+    "id": "diabeetus",
+    "title": "Diabeetus",
+    "category": "Macro",
+    "src": "/images/gallery/diabeetus.jpg",
+    "srcset": [
+      "/images/gallery/diabeetus.jpg 800w",
+      "/images/gallery/diabeetus.jpg 1600w"
+    ],
+    "alt": "Macro photography detail",
     "exif": {
       "iso": 400,
       "aperture": "f/5.6",
       "shutter": "1/160",
       "focal": "105mm"
     },
-    "story": "Found this tiny world within a single drop at dawn."
+    "story": "Placeholder story - add your photo description here."
   },
   {
-    "id": "night-fireflies",
-    "title": "Firefly Trails at Dusk",
-    "category": "Night",
-    "src": "/images/gallery/fireflies.jpg",
+    "id": "yellow-door",
+    "title": "Yellow Door",
+    "category": "Macro",
+    "src": "/images/gallery/yellow_door.jpg",
     "srcset": [
-      "/images/gallery/fireflies-800.jpg 800w",
-      "/images/gallery/fireflies-1600.jpg 1600w"
+      "/images/gallery/yellow_door.jpg 800w",
+      "/images/gallery/yellow_door.jpg 1600w"
     ],
-    "alt": "Light trails from fireflies creating luminous patterns against darkening forest",
+    "alt": "Detail of yellow door texture",
     "exif": {
-      "iso": 1600,
-      "aperture": "f/2.0",
-      "shutter": "15s",
-      "focal": "35mm"
-    },
-    "story": "Stacked multiple exposures to capture nature's own light show."
-  },
-  {
-    "id": "wildlife-jaguar",
-    "title": "Jaguar in Pantanal Shadows",
-    "category": "Wildlife",
-    "src": "/images/gallery/jaguar.jpg",
-    "srcset": [
-      "/images/gallery/jaguar-800.jpg 800w",
-      "/images/gallery/jaguar-1600.jpg 1600w"
-    ],
-    "alt": "Jaguar emerging from dappled forest shadows with intense gaze",
-    "exif": {
-      "iso": 1600,
-      "aperture": "f/4.0",
+      "iso": 200,
+      "aperture": "f/8.0",
       "shutter": "1/250",
-      "focal": "400mm"
+      "focal": "50mm"
     },
-    "story": "A rare encounter in the Pantanal wetlands at golden hour."
+    "story": "Placeholder story - add your photo description here."
   }
 ]
