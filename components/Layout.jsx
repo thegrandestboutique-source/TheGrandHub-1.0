@@ -121,8 +121,8 @@ export default function Layout({ children }) {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             {/* Copyright */}
             <p className="text-sm opacity-70">
-- Website Code: MIT License
-- Photography & Images: © {new Date().getFullYear()} Lorenzo LDS · Brazil. All rights reserved.
+              Website Code: MIT License<br />
+              Photography & Images: © {new Date().getFullYear()} Lorenzo LDS · Brazil. All rights reserved.
             </p>
 
             {/* Footer Nav */}
