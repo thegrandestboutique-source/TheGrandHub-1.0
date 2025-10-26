@@ -34,7 +34,7 @@ export default function Shop() {
         <div className="mb-12">
           <h2 className="font-serif text-3xl text-center mb-8">Best Sellers</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {productsData.map(product => (
+            {products.map(product => (
               <div 
                 key={product.id}
                 className="group"
