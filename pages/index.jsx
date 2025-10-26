@@ -15,7 +15,7 @@ export default function Home() {
           <div 
             className="w-full h-full bg-gradient-to-b from-transparent to-current"
             style={{ 
-              backgroundImage: 'url(/images/gallery/dahlia.jpg)',
+              backgroundImage: 'url(/images/gallery/mumbojumbo_zilda.jpg)',
               backgroundSize: 'cover',
               backgroundPosition: 'center',
               opacity: 0.4
@@ -85,7 +85,7 @@ export default function Home() {
               <div 
                 className="w-full h-full transition-transform duration-500 group-hover:scale-110"
                 style={{
-                  backgroundImage: 'url(/images/gallery/dahlia.jpg)',
+                  backgroundImage: 'url(/images/gallery/diabeetus.jpg)',
                   backgroundSize: 'cover',
                   backgroundPosition: 'center'
                 }}
@@ -105,7 +105,7 @@ export default function Home() {
               <div 
                 className="w-full h-full transition-transform duration-500 group-hover:scale-110"
                 style={{
-                  backgroundImage: 'url(/images/gallery/toucan.jpg)',
+                  backgroundImage: 'url(/images/gallery/cute_bnw_zilda.jpg)',
                   backgroundSize: 'cover',
                   backgroundPosition: 'center'
                 }}
@@ -125,7 +125,7 @@ export default function Home() {
               <div 
                 className="w-full h-full transition-transform duration-500 group-hover:scale-110"
                 style={{
-                  backgroundImage: 'url(/images/gallery/milkyway.jpg)',
+                  backgroundImage: 'url(/images/gallery/upwards_zilda.jpg)',
                   backgroundSize: 'cover',
                   backgroundPosition: 'center'
                 }}
