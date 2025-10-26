@@ -34,7 +34,7 @@ export default function Links() {
       description: 'Buy prints, canvases & more'
     },
     {
-      name: 'Pinterest',
+      name: 'Pinterest - Not added yet',
       url: '#',
       icon: (
         <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
@@ -44,7 +44,7 @@ export default function Links() {
       description: 'Visual inspiration boards'
     },
     {
-      name: 'TikTok / YouTube Shorts',
+      name: 'TikTok / YouTube Shorts - Not added yet',
       url: '#',
       icon: (
         <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
@@ -54,7 +54,7 @@ export default function Links() {
       description: 'Short-form content & behind the scenes'
     },
     {
-      name: 'Fine Art America',
+      name: 'Fine Art America - Not added yet',
       url: '#',
       icon: (
         <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
@@ -79,7 +79,7 @@ export default function Links() {
     <>
       <Head>
         <title>Links | TheGrandHub</title>
-        <meta name="description" content="Connect with Lorenzo LDS across platforms" />
+        <meta name="description" content="All my socials are here!" />
       </Head>
 
       <div className="max-w-3xl mx-auto px-6 py-16">
