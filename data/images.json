@@ -3,10 +3,10 @@
     "id": "abstract-earth",
     "title": "Abstract Earth",
     "category": "Macro",
-    "src": "/images/gallery/IMG_3381.jpg",
+    "src": "images/gallery/IMG_3381.jpg",
     "srcset": [
-      "/images/gallery/IMG_3381-800.jpg 800w",
-      "/images/gallery/IMG_3381-1600.jpg 1600w"
+      "images/gallery/IMG_3381-800.jpg 800w",
+      "images/gallery/IMG_3381-1600.jpg 1600w"
     ],
     "alt": "An abstract representation of stones",
     "exif": {
