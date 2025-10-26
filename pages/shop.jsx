@@ -2,6 +2,8 @@ import Head from 'next/head';
 import productsData from '../data/products.json';
 
 export default function Shop() {
+  const products = productsData.products || []; // ← ADD THIS LINE
+  
   return (
     <>
       <Head>
