@@ -3,10 +3,10 @@
     "id": "abstract-earth",
     "title": "Abstract Earth",
     "category": "Macro",
-    "src": "images/gallery/IMG_3381.jpg",
+    "src": "images/gallery/mumbojumbo_zilda.jpg",
     "srcset": [
-      "images/gallery/IMG_3381-800.jpg 800w",
-      "images/gallery/IMG_3381-1600.jpg 1600w"
+      "images/gallery/mumbojumbo_zilda-800.jpg 800w",
+      "images/gallery/mumbojumbo_zilda-1600.jpg 1600w"
     ],
     "alt": "An abstract representation of stones",
     "exif": {
@@ -21,10 +21,10 @@
     "id": "night-milkyway",
     "title": "Milky Way Over Brazilian Highlands",
     "category": "Night",
-    "src": "/images/gallery/milkyway.jpg",
+    "src": "/images/gallery/oranges.jpg",
     "srcset": [
-      "/images/gallery/milkyway-800.jpg 800w",
-      "/images/gallery/milkyway-1600.jpg 1600w"
+      "/images/gallery/oranges-800.jpg 800w",
+      "/images/gallery/oranges-1600.jpg 1600w"
     ],
     "alt": "Long exposure of the Milky Way stretching across a dark sky above silhouetted mountains",
     "exif": {
@@ -39,10 +39,10 @@
     "id": "wildlife-toucan",
     "title": "Toco Toucan in Morning Light",
     "category": "Wildlife",
-    "src": "/images/gallery/toucan.jpg",
+    "src": "/images/gallery/remela_zilda.jpg",
     "srcset": [
-      "/images/gallery/toucan-800.jpg 800w",
-      "/images/gallery/toucan-1600.jpg 1600w"
+      "/images/gallery/remela_zilda-800.jpg 800w",
+      "/images/gallery/remela_zilda-1600.jpg 1600w"
     ],
     "alt": "Portrait of a Toco toucan perched on a branch with soft morning light",
     "exif": {
