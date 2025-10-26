@@ -11,7 +11,7 @@ export default function Gallery() {
   const [lightboxImage, setLightboxImage] = useState(null);
   const [lightboxIndex, setLightboxIndex] = useState(0);
 
-  const categories = ['All', 'Macro', 'Wildlife', 'Night'];
+  const categories = ['All', 'Macro', 'Wildlife', 'Night', 'Pets'];
 
   useEffect(() => {
     // Check for filter in URL query
