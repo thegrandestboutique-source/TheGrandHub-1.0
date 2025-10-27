@@ -3,24 +3,36 @@
     "id": "macro",
     "name": "Macro",
     "description": "Close-up details and textures",
-    "placeholder": "/images/gallery/mumbojumbo_zilda.jpg"
+    "placeholder": "/images/gallery/macro/red-rose-drop.jpg"
   },
   {
     "id": "wildlife",
     "name": "Wildlife",
     "description": "Nature's creatures in their habitat",
-    "placeholder": "/images/gallery/parrot_zilda.jpg"
+    "placeholder": "/images/gallery/wildlife/IMG_2801.jpg"
   },
   {
     "id": "night",
     "name": "Night",
     "description": "Stars, skies, and nightscapes",
-    "placeholder": "/images/gallery/oranges.jpg"
+    "placeholder": "/images/gallery/night/IMG_2229.jpg"
   },
   {
     "id": "pets",
     "name": "Pets",
     "description": "Beloved companions and portraits",
-    "placeholder": "/images/gallery/remela_zilda.jpg"
+    "placeholder": "/images/gallery/pets/remela_zilda.jpg"
+  },
+  {
+    "id": "nature",
+    "name": "Nature",
+    "description": "Landscapes and natural beauty",
+    "placeholder": "/images/gallery/nature/oranges.jpg"
+  },
+  {
+    "id": "human-made",
+    "name": "Human-Made",
+    "description": "Architecture and urban scenes",
+    "placeholder": "/images/gallery/human-made/yellow_door.jpg"
   }
 ]

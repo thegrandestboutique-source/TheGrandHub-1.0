@@ -12,10 +12,10 @@ export default function Home() {
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         {/* Hero Image - replace with actual image */}
         <div className="absolute inset-0 z-0">
-          <div 
+          <div
             className="w-full h-full bg-gradient-to-b from-transparent to-current"
-            style={{ 
-              backgroundImage: 'url(/images/gallery/mumbojumbo_zilda.jpg)',
+            style={{
+              backgroundImage: 'url(/images/gallery/pets/mumbojumbo_zilda.jpg)',
               backgroundSize: 'cover',
               backgroundPosition: 'center',
               opacity: 0.4
@@ -82,10 +82,10 @@ export default function Home() {
           {/* Macro */}
           <Link href="/gallery?filter=Macro" className="group">
             <div className="aspect-square relative overflow-hidden rounded-lg mb-4 transition-transform duration-500 group-hover:scale-105">
-              <div 
+              <div
                 className="w-full h-full"
                 style={{
-                  backgroundImage: 'url(/images/gallery/diabeetus.jpg)',
+                  backgroundImage: 'url(/images/gallery/macro/diabeetus.jpg)',
                   backgroundSize: 'cover',
                   backgroundPosition: 'center'
                 }}
@@ -102,10 +102,10 @@ export default function Home() {
           {/* Wildlife */}
           <Link href="/gallery?filter=Wildlife" className="group">
             <div className="aspect-square relative overflow-hidden rounded-lg mb-4 transition-transform duration-500 group-hover:scale-105">
-              <div 
+              <div
                 className="w-full h-full"
                 style={{
-                  backgroundImage: 'url(/images/gallery/cute_bnw_zilda.jpg)',
+                  backgroundImage: 'url(/images/gallery/wildlife/IMG_2801.jpg)',
                   backgroundSize: 'cover',
                   backgroundPosition: 'center'
                 }}
@@ -122,10 +122,10 @@ export default function Home() {
           {/* Night */}
           <Link href="/gallery?filter=Night" className="group">
             <div className="aspect-square relative overflow-hidden rounded-lg mb-4 transition-transform duration-500 group-hover:scale-105">
-              <div 
+              <div
                 className="w-full h-full"
                 style={{
-                  backgroundImage: 'url(/images/gallery/upwards_zilda.jpg)',
+                  backgroundImage: 'url(/images/gallery/night/IMG_2229.jpg)',
                   backgroundSize: 'cover',
                   backgroundPosition: 'center'
                 }}

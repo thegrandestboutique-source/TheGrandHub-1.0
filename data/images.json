@@ -1,221 +1,2441 @@
 [
   {
-    "id": "mumbojumbo-zilda",
-    "title": "Abstract Earth",
+    "id": "bee-butt",
+    "title": "Bee Butt",
     "category": "Macro",
-    "src": "/images/gallery/mumbojumbo_zilda.jpg",
+    "src": "/images/gallery/macro/bee-butt.jpg",
     "srcset": [
-      "/images/gallery/mumbojumbo_zilda.jpg 800w",
-      "/images/gallery/mumbojumbo_zilda.jpg 1600w"
+      "/images/gallery/macro/bee-butt.jpg 800w",
+      "/images/gallery/macro/bee-butt.jpg 1600w"
     ],
-    "alt": "Abstract representation of stones and earth textures",
-    "favorite": true,
+    "alt": "Bee Butt",
     "exif": {
-      "iso": 400,
-      "aperture": "f/5.6",
-      "shutter": "1/200",
-      "focal": "50mm"
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
     },
-    "story": "Placeholder story - add your photo description here."
+    "story": "Captured by Lorenzo LDS in Brazil."
   },
   {
-    "id": "oranges",
-    "title": "Milky Way Over Brazilian Highlands",
+    "id": "closeup-little-flower",
+    "title": "Closeup Little Flower",
+    "category": "Macro",
+    "src": "/images/gallery/macro/closeup-little-flower.jpg",
+    "srcset": [
+      "/images/gallery/macro/closeup-little-flower.jpg 800w",
+      "/images/gallery/macro/closeup-little-flower.jpg 1600w"
+    ],
+    "alt": "Closeup Little Flower",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "colorful-eye",
+    "title": "Colorful Eye",
+    "category": "Macro",
+    "src": "/images/gallery/macro/colorful-eye.jpg",
+    "srcset": [
+      "/images/gallery/macro/colorful-eye.jpg 800w",
+      "/images/gallery/macro/colorful-eye.jpg 1600w"
+    ],
+    "alt": "Colorful Eye",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "contrasting-flower",
+    "title": "Contrasting Flower",
+    "category": "Macro",
+    "src": "/images/gallery/macro/contrasting-flower.jpg",
+    "srcset": [
+      "/images/gallery/macro/contrasting-flower.jpg 800w",
+      "/images/gallery/macro/contrasting-flower.jpg 1600w"
+    ],
+    "alt": "Contrasting Flower",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "depth-in-gazing",
+    "title": "Depth In Gazing",
+    "category": "Macro",
+    "src": "/images/gallery/macro/depth-in-gazing.jpg",
+    "srcset": [
+      "/images/gallery/macro/depth-in-gazing.jpg 800w",
+      "/images/gallery/macro/depth-in-gazing.jpg 1600w"
+    ],
+    "alt": "Depth In Gazing",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "fallen-log-closeup",
+    "title": "Fallen Log Closeup",
+    "category": "Macro",
+    "src": "/images/gallery/macro/fallen-log-closeup.jpg",
+    "srcset": [
+      "/images/gallery/macro/fallen-log-closeup.jpg 800w",
+      "/images/gallery/macro/fallen-log-closeup.jpg 1600w"
+    ],
+    "alt": "Fallen Log Closeup",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "fallen-log",
+    "title": "Fallen Log",
+    "category": "Macro",
+    "src": "/images/gallery/macro/fallen-log.jpg",
+    "srcset": [
+      "/images/gallery/macro/fallen-log.jpg 800w",
+      "/images/gallery/macro/fallen-log.jpg 1600w"
+    ],
+    "alt": "Fallen Log",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "gerbera",
+    "title": "Gerbera",
+    "category": "Macro",
+    "src": "/images/gallery/macro/gerbera.jpg",
+    "srcset": [
+      "/images/gallery/macro/gerbera.jpg 800w",
+      "/images/gallery/macro/gerbera.jpg 1600w"
+    ],
+    "alt": "Gerbera",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "james",
+    "title": "James",
+    "category": "Macro",
+    "src": "/images/gallery/macro/james.jpg",
+    "srcset": [
+      "/images/gallery/macro/james.jpg 800w",
+      "/images/gallery/macro/james.jpg 1600w"
+    ],
+    "alt": "James",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "knotted-log",
+    "title": "Knotted Log",
+    "category": "Macro",
+    "src": "/images/gallery/macro/knotted-log.jpg",
+    "srcset": [
+      "/images/gallery/macro/knotted-log.jpg 800w",
+      "/images/gallery/macro/knotted-log.jpg 1600w"
+    ],
+    "alt": "Knotted Log",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "leaning-log",
+    "title": "Leaning Log",
+    "category": "Macro",
+    "src": "/images/gallery/macro/leaning-log.jpg",
+    "srcset": [
+      "/images/gallery/macro/leaning-log.jpg 800w",
+      "/images/gallery/macro/leaning-log.jpg 1600w"
+    ],
+    "alt": "Leaning Log",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "lilac-tiny-flowers",
+    "title": "Lilac Tiny Flowers",
+    "category": "Macro",
+    "src": "/images/gallery/macro/lilac-tiny-flowers.jpg",
+    "srcset": [
+      "/images/gallery/macro/lilac-tiny-flowers.jpg 800w",
+      "/images/gallery/macro/lilac-tiny-flowers.jpg 1600w"
+    ],
+    "alt": "Lilac Tiny Flowers",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "pierced-log",
+    "title": "Pierced Log",
+    "category": "Macro",
+    "src": "/images/gallery/macro/pierced-log.jpg",
+    "srcset": [
+      "/images/gallery/macro/pierced-log.jpg 800w",
+      "/images/gallery/macro/pierced-log.jpg 1600w"
+    ],
+    "alt": "Pierced Log",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "pink-rose",
+    "title": "Pink Rose",
+    "category": "Macro",
+    "src": "/images/gallery/macro/pink-rose.jpg",
+    "srcset": [
+      "/images/gallery/macro/pink-rose.jpg 800w",
+      "/images/gallery/macro/pink-rose.jpg 1600w"
+    ],
+    "alt": "Pink Rose",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "purple-leaves",
+    "title": "Purple Leaves",
+    "category": "Macro",
+    "src": "/images/gallery/macro/purple-leaves.jpg",
+    "srcset": [
+      "/images/gallery/macro/purple-leaves.jpg 800w",
+      "/images/gallery/macro/purple-leaves.jpg 1600w"
+    ],
+    "alt": "Purple Leaves",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "red-rose-drop",
+    "title": "Red Rose Drop",
+    "category": "Macro",
+    "src": "/images/gallery/macro/red-rose-drop.jpg",
+    "srcset": [
+      "/images/gallery/macro/red-rose-drop.jpg 800w",
+      "/images/gallery/macro/red-rose-drop.jpg 1600w"
+    ],
+    "alt": "Red Rose Drop",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil.",
+    "favorite": true
+  },
+  {
+    "id": "red-rose-top",
+    "title": "Red Rose Top",
+    "category": "Macro",
+    "src": "/images/gallery/macro/red-rose-top.jpg",
+    "srcset": [
+      "/images/gallery/macro/red-rose-top.jpg 800w",
+      "/images/gallery/macro/red-rose-top.jpg 1600w"
+    ],
+    "alt": "Red Rose Top",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "red-rose",
+    "title": "Red Rose",
+    "category": "Macro",
+    "src": "/images/gallery/macro/red-rose.jpg",
+    "srcset": [
+      "/images/gallery/macro/red-rose.jpg 800w",
+      "/images/gallery/macro/red-rose.jpg 1600w"
+    ],
+    "alt": "Red Rose",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "rosebud",
+    "title": "Rosebud",
+    "category": "Macro",
+    "src": "/images/gallery/macro/rosebud.jpg",
+    "srcset": [
+      "/images/gallery/macro/rosebud.jpg 800w",
+      "/images/gallery/macro/rosebud.jpg 1600w"
+    ],
+    "alt": "Rosebud",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "seeing-slit",
+    "title": "Seeing Slit",
+    "category": "Macro",
+    "src": "/images/gallery/macro/seeing-slit.jpg",
+    "srcset": [
+      "/images/gallery/macro/seeing-slit.jpg 800w",
+      "/images/gallery/macro/seeing-slit.jpg 1600w"
+    ],
+    "alt": "Seeing Slit",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "single-hued-chid",
+    "title": "Single Hued Chid",
+    "category": "Macro",
+    "src": "/images/gallery/macro/single-hued-chid.jpg",
+    "srcset": [
+      "/images/gallery/macro/single-hued-chid.jpg 800w",
+      "/images/gallery/macro/single-hued-chid.jpg 1600w"
+    ],
+    "alt": "Single Hued Chid",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "sleepy-sheyla",
+    "title": "Sleepy Sheyla",
+    "category": "Macro",
+    "src": "/images/gallery/macro/sleepy-sheyla.jpg",
+    "srcset": [
+      "/images/gallery/macro/sleepy-sheyla.jpg 800w",
+      "/images/gallery/macro/sleepy-sheyla.jpg 1600w"
+    ],
+    "alt": "Sleepy Sheyla",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil.",
+    "favorite": true
+  },
+  {
+    "id": "spotted-orchid",
+    "title": "Spotted Orchid",
+    "category": "Macro",
+    "src": "/images/gallery/macro/spotted-orchid.jpg",
+    "srcset": [
+      "/images/gallery/macro/spotted-orchid.jpg 800w",
+      "/images/gallery/macro/spotted-orchid.jpg 1600w"
+    ],
+    "alt": "Spotted Orchid",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "surreal-plants",
+    "title": "Surreal Plants",
+    "category": "Macro",
+    "src": "/images/gallery/macro/surreal-plants.jpg",
+    "srcset": [
+      "/images/gallery/macro/surreal-plants.jpg 800w",
+      "/images/gallery/macro/surreal-plants.jpg 1600w"
+    ],
+    "alt": "Surreal Plants",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "tensed-knotted-log",
+    "title": "Tensed Knotted Log",
+    "category": "Macro",
+    "src": "/images/gallery/macro/tensed-knotted-log.jpg",
+    "srcset": [
+      "/images/gallery/macro/tensed-knotted-log.jpg 800w",
+      "/images/gallery/macro/tensed-knotted-log.jpg 1600w"
+    ],
+    "alt": "Tensed Knotted Log",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "the-night-sleeps",
+    "title": "The Night Sleeps",
+    "category": "Macro",
+    "src": "/images/gallery/macro/the-night-sleeps.jpg",
+    "srcset": [
+      "/images/gallery/macro/the-night-sleeps.jpg 800w",
+      "/images/gallery/macro/the-night-sleeps.jpg 1600w"
+    ],
+    "alt": "The Night Sleeps",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "three-little-chids",
+    "title": "Three Little Chids",
+    "category": "Macro",
+    "src": "/images/gallery/macro/three-little-chids.jpg",
+    "srcset": [
+      "/images/gallery/macro/three-little-chids.jpg 800w",
+      "/images/gallery/macro/three-little-chids.jpg 1600w"
+    ],
+    "alt": "Three Little Chids",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "two-logs",
+    "title": "Two Logs",
+    "category": "Macro",
+    "src": "/images/gallery/macro/two-logs.jpg",
+    "srcset": [
+      "/images/gallery/macro/two-logs.jpg 800w",
+      "/images/gallery/macro/two-logs.jpg 1600w"
+    ],
+    "alt": "Two Logs",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "white-rose-too",
+    "title": "White Rose Too",
+    "category": "Macro",
+    "src": "/images/gallery/macro/white-rose-too.jpg",
+    "srcset": [
+      "/images/gallery/macro/white-rose-too.jpg 800w",
+      "/images/gallery/macro/white-rose-too.jpg 1600w"
+    ],
+    "alt": "White Rose Too",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "winged-purple-orchid",
+    "title": "Winged Purple Orchid",
+    "category": "Macro",
+    "src": "/images/gallery/macro/winged-purple-orchid.jpg",
+    "srcset": [
+      "/images/gallery/macro/winged-purple-orchid.jpg 800w",
+      "/images/gallery/macro/winged-purple-orchid.jpg 1600w"
+    ],
+    "alt": "Winged Purple Orchid",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "world-in-her-eyes",
+    "title": "World In Her Eyes",
+    "category": "Macro",
+    "src": "/images/gallery/macro/world-in-her-eyes.jpg",
+    "srcset": [
+      "/images/gallery/macro/world-in-her-eyes.jpg 800w",
+      "/images/gallery/macro/world-in-her-eyes.jpg 1600w"
+    ],
+    "alt": "World In Her Eyes",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil.",
+    "favorite": true
+  },
+  {
+    "id": "20250123-115120",
+    "title": "20250123 115120",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/20250123_115120.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/20250123_115120.jpg 800w",
+      "/images/gallery/wildlife/20250123_115120.jpg 1600w"
+    ],
+    "alt": "20250123 115120",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "20250529-200425",
+    "title": "20250529 200425",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/20250529_200425.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/20250529_200425.jpg 800w",
+      "/images/gallery/wildlife/20250529_200425.jpg 1600w"
+    ],
+    "alt": "20250529 200425",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2509",
+    "title": "IMG 2509",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_2509.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_2509.jpg 800w",
+      "/images/gallery/wildlife/IMG_2509.jpg 1600w"
+    ],
+    "alt": "IMG 2509",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2613",
+    "title": "IMG 2613",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_2613.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_2613.jpg 800w",
+      "/images/gallery/wildlife/IMG_2613.jpg 1600w"
+    ],
+    "alt": "IMG 2613",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2614",
+    "title": "IMG 2614",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_2614.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_2614.jpg 800w",
+      "/images/gallery/wildlife/IMG_2614.jpg 1600w"
+    ],
+    "alt": "IMG 2614",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2616",
+    "title": "IMG 2616",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_2616.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_2616.jpg 800w",
+      "/images/gallery/wildlife/IMG_2616.jpg 1600w"
+    ],
+    "alt": "IMG 2616",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2621",
+    "title": "IMG 2621",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_2621.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_2621.jpg 800w",
+      "/images/gallery/wildlife/IMG_2621.jpg 1600w"
+    ],
+    "alt": "IMG 2621",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2783",
+    "title": "IMG 2783",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_2783.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_2783.jpg 800w",
+      "/images/gallery/wildlife/IMG_2783.jpg 1600w"
+    ],
+    "alt": "IMG 2783",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2799",
+    "title": "IMG 2799",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_2799.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_2799.jpg 800w",
+      "/images/gallery/wildlife/IMG_2799.jpg 1600w"
+    ],
+    "alt": "IMG 2799",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2801",
+    "title": "IMG 2801",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_2801.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_2801.jpg 800w",
+      "/images/gallery/wildlife/IMG_2801.jpg 1600w"
+    ],
+    "alt": "IMG 2801",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2823",
+    "title": "IMG 2823",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_2823.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_2823.jpg 800w",
+      "/images/gallery/wildlife/IMG_2823.jpg 1600w"
+    ],
+    "alt": "IMG 2823",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2948",
+    "title": "IMG 2948",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_2948.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_2948.jpg 800w",
+      "/images/gallery/wildlife/IMG_2948.jpg 1600w"
+    ],
+    "alt": "IMG 2948",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2949",
+    "title": "IMG 2949",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_2949.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_2949.jpg 800w",
+      "/images/gallery/wildlife/IMG_2949.jpg 1600w"
+    ],
+    "alt": "IMG 2949",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2950",
+    "title": "IMG 2950",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_2950.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_2950.jpg 800w",
+      "/images/gallery/wildlife/IMG_2950.jpg 1600w"
+    ],
+    "alt": "IMG 2950",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3276-1",
+    "title": "IMG 3276",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_3276 (1).jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_3276 (1).jpg 800w",
+      "/images/gallery/wildlife/IMG_3276 (1).jpg 1600w"
+    ],
+    "alt": "IMG 3276",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3276",
+    "title": "IMG 3276",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_3276.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_3276.jpg 800w",
+      "/images/gallery/wildlife/IMG_3276.jpg 1600w"
+    ],
+    "alt": "IMG 3276",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3279",
+    "title": "IMG 3279",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_3279.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_3279.jpg 800w",
+      "/images/gallery/wildlife/IMG_3279.jpg 1600w"
+    ],
+    "alt": "IMG 3279",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3519",
+    "title": "IMG 3519",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_3519.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_3519.jpg 800w",
+      "/images/gallery/wildlife/IMG_3519.jpg 1600w"
+    ],
+    "alt": "IMG 3519",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3520",
+    "title": "IMG 3520",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_3520.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_3520.jpg 800w",
+      "/images/gallery/wildlife/IMG_3520.jpg 1600w"
+    ],
+    "alt": "IMG 3520",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3529",
+    "title": "IMG 3529",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_3529.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_3529.jpg 800w",
+      "/images/gallery/wildlife/IMG_3529.jpg 1600w"
+    ],
+    "alt": "IMG 3529",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3532",
+    "title": "IMG 3532",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_3532.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_3532.jpg 800w",
+      "/images/gallery/wildlife/IMG_3532.jpg 1600w"
+    ],
+    "alt": "IMG 3532",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3676",
+    "title": "IMG 3676",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_3676.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_3676.jpg 800w",
+      "/images/gallery/wildlife/IMG_3676.jpg 1600w"
+    ],
+    "alt": "IMG 3676",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3684",
+    "title": "IMG 3684",
+    "category": "Wildlife",
+    "src": "/images/gallery/wildlife/IMG_3684.jpg",
+    "srcset": [
+      "/images/gallery/wildlife/IMG_3684.jpg 800w",
+      "/images/gallery/wildlife/IMG_3684.jpg 1600w"
+    ],
+    "alt": "IMG 3684",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "20240808-061413",
+    "title": "20240808 061413",
     "category": "Night",
-    "src": "/images/gallery/oranges.jpg",
+    "src": "/images/gallery/night/20240808_061413.jpg",
     "srcset": [
-      "/images/gallery/oranges.jpg 800w",
-      "/images/gallery/oranges.jpg 1600w"
+      "/images/gallery/night/20240808_061413.jpg 800w",
+      "/images/gallery/night/20240808_061413.jpg 1600w"
     ],
-    "alt": "Night sky photography with stars",
-    "favorite": true,
+    "alt": "20240808 061413",
     "exif": {
-      "iso": 3200,
-      "aperture": "f/2.8",
-      "shutter": "20s",
-      "focal": "24mm"
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
     },
-    "story": "Placeholder story - add your photo description here."
+    "story": "Captured by Lorenzo LDS in Brazil."
   },
   {
-    "id": "remela-zilda",
-    "title": "Morning Gaze",
-    "category": "Pets",
-    "src": "/images/gallery/remela_zilda.jpg",
+    "id": "20240814-200611",
+    "title": "20240814 200611",
+    "category": "Night",
+    "src": "/images/gallery/night/20240814_200611.jpg",
     "srcset": [
-      "/images/gallery/remela_zilda.jpg 800w",
-      "/images/gallery/remela_zilda.jpg 1600w"
+      "/images/gallery/night/20240814_200611.jpg 800w",
+      "/images/gallery/night/20240814_200611.jpg 1600w"
     ],
-    "alt": "Close-up pet portrait",
+    "alt": "20240814 200611",
     "exif": {
-      "iso": 800,
-      "aperture": "f/4.0",
-      "shutter": "1/250",
-      "focal": "85mm"
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
     },
-    "story": "Placeholder story - add your photo description here."
+    "story": "Captured by Lorenzo LDS in Brazil."
   },
   {
-    "id": "attentive-zilda",
-    "title": "Attentive",
-    "category": "Pets",
-    "src": "/images/gallery/attentive_zilda.jpg",
+    "id": "img-2214",
+    "title": "IMG 2214",
+    "category": "Night",
+    "src": "/images/gallery/night/IMG_2214.jpg",
     "srcset": [
-      "/images/gallery/attentive_zilda.jpg 800w",
-      "/images/gallery/attentive_zilda.jpg 1600w"
+      "/images/gallery/night/IMG_2214.jpg 800w",
+      "/images/gallery/night/IMG_2214.jpg 1600w"
     ],
-    "alt": "Pet looking attentive",
+    "alt": "IMG 2214",
     "exif": {
-      "iso": 400,
-      "aperture": "f/2.8",
-      "shutter": "1/320",
-      "focal": "50mm"
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
     },
-    "story": "Placeholder story - add your photo description here."
+    "story": "Captured by Lorenzo LDS in Brazil."
   },
   {
-    "id": "cute-bnw-zilda",
-    "title": "Black & White Portrait",
-    "category": "Pets",
-    "src": "/images/gallery/cute_bnw_zilda.jpg",
+    "id": "img-2229-1",
+    "title": "IMG 2229",
+    "category": "Night",
+    "src": "/images/gallery/night/IMG_2229 (1).jpg",
     "srcset": [
-      "/images/gallery/cute_bnw_zilda.jpg 800w",
-      "/images/gallery/cute_bnw_zilda.jpg 1600w"
+      "/images/gallery/night/IMG_2229 (1).jpg 800w",
+      "/images/gallery/night/IMG_2229 (1).jpg 1600w"
     ],
-    "alt": "Black and white pet portrait",
+    "alt": "IMG 2229",
     "exif": {
-      "iso": 800,
-      "aperture": "f/2.0",
-      "shutter": "1/160",
-      "focal": "50mm"
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
     },
-    "story": "Placeholder story - add your photo description here."
+    "story": "Captured by Lorenzo LDS in Brazil."
   },
   {
-    "id": "sleepy-zilda",
-    "title": "Sleepy Time",
-    "category": "Pets",
-    "src": "/images/gallery/sleepy_zilda.jpg",
+    "id": "img-2229",
+    "title": "IMG 2229",
+    "category": "Night",
+    "src": "/images/gallery/night/IMG_2229.jpg",
     "srcset": [
-      "/images/gallery/sleepy_zilda.jpg 800w",
-      "/images/gallery/sleepy_zilda.jpg 1600w"
+      "/images/gallery/night/IMG_2229.jpg 800w",
+      "/images/gallery/night/IMG_2229.jpg 1600w"
     ],
-    "alt": "Pet sleeping peacefully",
+    "alt": "IMG 2229",
     "exif": {
-      "iso": 1600,
-      "aperture": "f/2.8",
-      "shutter": "1/125",
-      "focal": "50mm"
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
     },
-    "story": "Placeholder story - add your photo description here."
+    "story": "Captured by Lorenzo LDS in Brazil."
   },
   {
-    "id": "shy-zilda",
-    "title": "Shy Moment",
-    "category": "Pets",
-    "src": "/images/gallery/shy_zilda.jpg",
+    "id": "img-2343",
+    "title": "IMG 2343",
+    "category": "Night",
+    "src": "/images/gallery/night/IMG_2343.jpg",
     "srcset": [
-      "/images/gallery/shy_zilda.jpg 800w",
-      "/images/gallery/shy_zilda.jpg 1600w"
+      "/images/gallery/night/IMG_2343.jpg 800w",
+      "/images/gallery/night/IMG_2343.jpg 1600w"
     ],
-    "alt": "Pet in a shy pose",
+    "alt": "IMG 2343",
     "exif": {
-      "iso": 400,
-      "aperture": "f/4.0",
-      "shutter": "1/200",
-      "focal": "85mm"
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
     },
-    "story": "Placeholder story - add your photo description here."
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2356",
+    "title": "IMG 2356",
+    "category": "Night",
+    "src": "/images/gallery/night/IMG_2356.jpg",
+    "srcset": [
+      "/images/gallery/night/IMG_2356.jpg 800w",
+      "/images/gallery/night/IMG_2356.jpg 1600w"
+    ],
+    "alt": "IMG 2356",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2647",
+    "title": "IMG 2647",
+    "category": "Night",
+    "src": "/images/gallery/night/IMG_2647.jpg",
+    "srcset": [
+      "/images/gallery/night/IMG_2647.jpg 800w",
+      "/images/gallery/night/IMG_2647.jpg 1600w"
+    ],
+    "alt": "IMG 2647",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3118",
+    "title": "IMG 3118",
+    "category": "Night",
+    "src": "/images/gallery/night/IMG_3118.jpg",
+    "srcset": [
+      "/images/gallery/night/IMG_3118.jpg 800w",
+      "/images/gallery/night/IMG_3118.jpg 1600w"
+    ],
+    "alt": "IMG 3118",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3145",
+    "title": "IMG 3145",
+    "category": "Night",
+    "src": "/images/gallery/night/IMG_3145.jpg",
+    "srcset": [
+      "/images/gallery/night/IMG_3145.jpg 800w",
+      "/images/gallery/night/IMG_3145.jpg 1600w"
+    ],
+    "alt": "IMG 3145",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3247",
+    "title": "IMG 3247",
+    "category": "Night",
+    "src": "/images/gallery/night/IMG_3247.jpg",
+    "srcset": [
+      "/images/gallery/night/IMG_3247.jpg 800w",
+      "/images/gallery/night/IMG_3247.jpg 1600w"
+    ],
+    "alt": "IMG 3247",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
   },
   {
     "id": "annoyed-zelda",
-    "title": "Annoyed",
+    "title": "Annoyed Zelda",
     "category": "Pets",
-    "src": "/images/gallery/annoyed_zelda.jpg",
+    "src": "/images/gallery/pets/annoyed_zelda.jpg",
     "srcset": [
-      "/images/gallery/annoyed_zelda.jpg 800w",
-      "/images/gallery/annoyed_zelda.jpg 1600w"
+      "/images/gallery/pets/annoyed_zelda.jpg 800w",
+      "/images/gallery/pets/annoyed_zelda.jpg 1600w"
     ],
-    "alt": "Pet with annoyed expression",
+    "alt": "Annoyed Zelda",
     "exif": {
-      "iso": 800,
-      "aperture": "f/2.8",
-      "shutter": "1/250",
-      "focal": "50mm"
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
     },
-    "story": "Placeholder story - add your photo description here."
+    "story": "Captured by Lorenzo LDS in Brazil."
   },
   {
-    "id": "upwards-zilda",
-    "title": "Looking Up",
+    "id": "attentive-zilda",
+    "title": "Attentive Zilda",
     "category": "Pets",
-    "src": "/images/gallery/upwards_zilda.jpg",
+    "src": "/images/gallery/pets/attentive_zilda.jpg",
     "srcset": [
-      "/images/gallery/upwards_zilda.jpg 800w",
-      "/images/gallery/upwards_zilda.jpg 1600w"
+      "/images/gallery/pets/attentive_zilda.jpg 800w",
+      "/images/gallery/pets/attentive_zilda.jpg 1600w"
     ],
-    "alt": "Pet looking upwards",
+    "alt": "Attentive Zilda",
     "exif": {
-      "iso": 640,
-      "aperture": "f/4.0",
-      "shutter": "1/200",
-      "focal": "50mm"
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
     },
-    "story": "Placeholder story - add your photo description here."
+    "story": "Captured by Lorenzo LDS in Brazil."
   },
   {
-    "id": "parrot-zilda",
-    "title": "Parrot Friend",
-    "category": "Wildlife",
-    "src": "/images/gallery/parrot_zilda.jpg",
+    "id": "cute-bnw-zilda",
+    "title": "Cute Bnw Zilda",
+    "category": "Pets",
+    "src": "/images/gallery/pets/cute_bnw_zilda.jpg",
     "srcset": [
-      "/images/gallery/parrot_zilda.jpg 800w",
-      "/images/gallery/parrot_zilda.jpg 1600w"
+      "/images/gallery/pets/cute_bnw_zilda.jpg 800w",
+      "/images/gallery/pets/cute_bnw_zilda.jpg 1600w"
     ],
-    "alt": "Brazilian parrot portrait",
-    "favorite": true,
+    "alt": "Cute Bnw Zilda",
     "exif": {
-      "iso": 800,
-      "aperture": "f/5.6",
-      "shutter": "1/500",
-      "focal": "200mm"
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
     },
-    "story": "Placeholder story - add your photo description here."
+    "story": "Captured by Lorenzo LDS in Brazil."
   },
   {
     "id": "diabeetus",
     "title": "Diabeetus",
-    "category": "Macro",
-    "src": "/images/gallery/diabeetus.jpg",
+    "category": "Pets",
+    "src": "/images/gallery/pets/diabeetus.jpg",
     "srcset": [
-      "/images/gallery/diabeetus.jpg 800w",
-      "/images/gallery/diabeetus.jpg 1600w"
+      "/images/gallery/pets/diabeetus.jpg 800w",
+      "/images/gallery/pets/diabeetus.jpg 1600w"
     ],
-    "alt": "Macro photography detail",
+    "alt": "Diabeetus",
     "exif": {
-      "iso": 400,
-      "aperture": "f/5.6",
-      "shutter": "1/160",
-      "focal": "105mm"
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
     },
-    "story": "Placeholder story - add your photo description here."
+    "story": "Captured by Lorenzo LDS in Brazil.",
+    "favorite": true
+  },
+  {
+    "id": "mumbojumbo-zilda",
+    "title": "Mumbojumbo Zilda",
+    "category": "Pets",
+    "src": "/images/gallery/pets/mumbojumbo_zilda.jpg",
+    "srcset": [
+      "/images/gallery/pets/mumbojumbo_zilda.jpg 800w",
+      "/images/gallery/pets/mumbojumbo_zilda.jpg 1600w"
+    ],
+    "alt": "Mumbojumbo Zilda",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil.",
+    "favorite": true
+  },
+  {
+    "id": "parrot-zilda",
+    "title": "Parrot Zilda",
+    "category": "Pets",
+    "src": "/images/gallery/pets/parrot_zilda.jpg",
+    "srcset": [
+      "/images/gallery/pets/parrot_zilda.jpg 800w",
+      "/images/gallery/pets/parrot_zilda.jpg 1600w"
+    ],
+    "alt": "Parrot Zilda",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil.",
+    "favorite": true
+  },
+  {
+    "id": "remela-zilda",
+    "title": "Remela Zilda",
+    "category": "Pets",
+    "src": "/images/gallery/pets/remela_zilda.jpg",
+    "srcset": [
+      "/images/gallery/pets/remela_zilda.jpg 800w",
+      "/images/gallery/pets/remela_zilda.jpg 1600w"
+    ],
+    "alt": "Remela Zilda",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil.",
+    "favorite": true
+  },
+  {
+    "id": "shy-zilda",
+    "title": "Shy Zilda",
+    "category": "Pets",
+    "src": "/images/gallery/pets/shy_zilda.jpg",
+    "srcset": [
+      "/images/gallery/pets/shy_zilda.jpg 800w",
+      "/images/gallery/pets/shy_zilda.jpg 1600w"
+    ],
+    "alt": "Shy Zilda",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "sleepy-zilda",
+    "title": "Sleepy Zilda",
+    "category": "Pets",
+    "src": "/images/gallery/pets/sleepy_zilda.jpg",
+    "srcset": [
+      "/images/gallery/pets/sleepy_zilda.jpg 800w",
+      "/images/gallery/pets/sleepy_zilda.jpg 1600w"
+    ],
+    "alt": "Sleepy Zilda",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "upwards-zilda",
+    "title": "Upwards Zilda",
+    "category": "Pets",
+    "src": "/images/gallery/pets/upwards_zilda.jpg",
+    "srcset": [
+      "/images/gallery/pets/upwards_zilda.jpg 800w",
+      "/images/gallery/pets/upwards_zilda.jpg 1600w"
+    ],
+    "alt": "Upwards Zilda",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "20241226-173147",
+    "title": "20241226 173147",
+    "category": "Nature",
+    "src": "/images/gallery/nature/20241226_173147.jpg",
+    "srcset": [
+      "/images/gallery/nature/20241226_173147.jpg 800w",
+      "/images/gallery/nature/20241226_173147.jpg 1600w"
+    ],
+    "alt": "20241226 173147",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "20250214-171449",
+    "title": "20250214 171449",
+    "category": "Nature",
+    "src": "/images/gallery/nature/20250214_171449.jpg",
+    "srcset": [
+      "/images/gallery/nature/20250214_171449.jpg 800w",
+      "/images/gallery/nature/20250214_171449.jpg 1600w"
+    ],
+    "alt": "20250214 171449",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2734",
+    "title": "IMG 2734",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_2734.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_2734.jpg 800w",
+      "/images/gallery/nature/IMG_2734.jpg 1600w"
+    ],
+    "alt": "IMG 2734",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2739",
+    "title": "IMG 2739",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_2739.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_2739.jpg 800w",
+      "/images/gallery/nature/IMG_2739.jpg 1600w"
+    ],
+    "alt": "IMG 2739",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2910",
+    "title": "IMG 2910",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_2910.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_2910.jpg 800w",
+      "/images/gallery/nature/IMG_2910.jpg 1600w"
+    ],
+    "alt": "IMG 2910",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2926",
+    "title": "IMG 2926",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_2926.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_2926.jpg 800w",
+      "/images/gallery/nature/IMG_2926.jpg 1600w"
+    ],
+    "alt": "IMG 2926",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3223-1",
+    "title": "IMG 3223",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3223 (1).jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3223 (1).jpg 800w",
+      "/images/gallery/nature/IMG_3223 (1).jpg 1600w"
+    ],
+    "alt": "IMG 3223",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3247",
+    "title": "IMG 3247",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3247.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3247.jpg 800w",
+      "/images/gallery/nature/IMG_3247.jpg 1600w"
+    ],
+    "alt": "IMG 3247",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3262",
+    "title": "IMG 3262",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3262.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3262.jpg 800w",
+      "/images/gallery/nature/IMG_3262.jpg 1600w"
+    ],
+    "alt": "IMG 3262",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3267",
+    "title": "IMG 3267",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3267.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3267.jpg 800w",
+      "/images/gallery/nature/IMG_3267.jpg 1600w"
+    ],
+    "alt": "IMG 3267",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3273",
+    "title": "IMG 3273",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3273.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3273.jpg 800w",
+      "/images/gallery/nature/IMG_3273.jpg 1600w"
+    ],
+    "alt": "IMG 3273",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3284",
+    "title": "IMG 3284",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3284.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3284.jpg 800w",
+      "/images/gallery/nature/IMG_3284.jpg 1600w"
+    ],
+    "alt": "IMG 3284",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3307",
+    "title": "IMG 3307",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3307.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3307.jpg 800w",
+      "/images/gallery/nature/IMG_3307.jpg 1600w"
+    ],
+    "alt": "IMG 3307",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3331",
+    "title": "IMG 3331",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3331.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3331.jpg 800w",
+      "/images/gallery/nature/IMG_3331.jpg 1600w"
+    ],
+    "alt": "IMG 3331",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3339",
+    "title": "IMG 3339",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3339.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3339.jpg 800w",
+      "/images/gallery/nature/IMG_3339.jpg 1600w"
+    ],
+    "alt": "IMG 3339",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3340",
+    "title": "IMG 3340",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3340.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3340.jpg 800w",
+      "/images/gallery/nature/IMG_3340.jpg 1600w"
+    ],
+    "alt": "IMG 3340",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3360",
+    "title": "IMG 3360",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3360.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3360.jpg 800w",
+      "/images/gallery/nature/IMG_3360.jpg 1600w"
+    ],
+    "alt": "IMG 3360",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3381",
+    "title": "IMG 3381",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3381.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3381.jpg 800w",
+      "/images/gallery/nature/IMG_3381.jpg 1600w"
+    ],
+    "alt": "IMG 3381",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3392",
+    "title": "IMG 3392",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3392.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3392.jpg 800w",
+      "/images/gallery/nature/IMG_3392.jpg 1600w"
+    ],
+    "alt": "IMG 3392",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3413-1",
+    "title": "IMG 3413",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3413 (1).jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3413 (1).jpg 800w",
+      "/images/gallery/nature/IMG_3413 (1).jpg 1600w"
+    ],
+    "alt": "IMG 3413",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3413",
+    "title": "IMG 3413",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3413.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3413.jpg 800w",
+      "/images/gallery/nature/IMG_3413.jpg 1600w"
+    ],
+    "alt": "IMG 3413",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3427",
+    "title": "IMG 3427",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3427.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3427.jpg 800w",
+      "/images/gallery/nature/IMG_3427.jpg 1600w"
+    ],
+    "alt": "IMG 3427",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3428",
+    "title": "IMG 3428",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3428.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3428.jpg 800w",
+      "/images/gallery/nature/IMG_3428.jpg 1600w"
+    ],
+    "alt": "IMG 3428",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3452",
+    "title": "IMG 3452",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3452.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3452.jpg 800w",
+      "/images/gallery/nature/IMG_3452.jpg 1600w"
+    ],
+    "alt": "IMG 3452",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3453-1",
+    "title": "IMG 3453",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3453 (1).jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3453 (1).jpg 800w",
+      "/images/gallery/nature/IMG_3453 (1).jpg 1600w"
+    ],
+    "alt": "IMG 3453",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3453",
+    "title": "IMG 3453",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3453.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3453.jpg 800w",
+      "/images/gallery/nature/IMG_3453.jpg 1600w"
+    ],
+    "alt": "IMG 3453",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3476",
+    "title": "IMG 3476",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3476.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3476.jpg 800w",
+      "/images/gallery/nature/IMG_3476.jpg 1600w"
+    ],
+    "alt": "IMG 3476",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3478-1",
+    "title": "IMG 3478",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3478 (1).jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3478 (1).jpg 800w",
+      "/images/gallery/nature/IMG_3478 (1).jpg 1600w"
+    ],
+    "alt": "IMG 3478",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3478",
+    "title": "IMG 3478",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3478.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3478.jpg 800w",
+      "/images/gallery/nature/IMG_3478.jpg 1600w"
+    ],
+    "alt": "IMG 3478",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3486",
+    "title": "IMG 3486",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3486.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3486.jpg 800w",
+      "/images/gallery/nature/IMG_3486.jpg 1600w"
+    ],
+    "alt": "IMG 3486",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3492",
+    "title": "IMG 3492",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3492.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3492.jpg 800w",
+      "/images/gallery/nature/IMG_3492.jpg 1600w"
+    ],
+    "alt": "IMG 3492",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3597",
+    "title": "IMG 3597",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3597.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3597.jpg 800w",
+      "/images/gallery/nature/IMG_3597.jpg 1600w"
+    ],
+    "alt": "IMG 3597",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3598",
+    "title": "IMG 3598",
+    "category": "Nature",
+    "src": "/images/gallery/nature/IMG_3598.jpg",
+    "srcset": [
+      "/images/gallery/nature/IMG_3598.jpg 800w",
+      "/images/gallery/nature/IMG_3598.jpg 1600w"
+    ],
+    "alt": "IMG 3598",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "oranges",
+    "title": "Oranges",
+    "category": "Nature",
+    "src": "/images/gallery/nature/oranges.jpg",
+    "srcset": [
+      "/images/gallery/nature/oranges.jpg 800w",
+      "/images/gallery/nature/oranges.jpg 1600w"
+    ],
+    "alt": "Oranges",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil.",
+    "favorite": true
+  },
+  {
+    "id": "20240727-171919",
+    "title": "20240727 171919",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/20240727_171919.jpg",
+    "srcset": [
+      "/images/gallery/human-made/20240727_171919.jpg 800w",
+      "/images/gallery/human-made/20240727_171919.jpg 1600w"
+    ],
+    "alt": "20240727 171919",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "20240803-152955",
+    "title": "20240803 152955",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/20240803_152955.jpg",
+    "srcset": [
+      "/images/gallery/human-made/20240803_152955.jpg 800w",
+      "/images/gallery/human-made/20240803_152955.jpg 1600w"
+    ],
+    "alt": "20240803 152955",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2027",
+    "title": "IMG 2027",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_2027.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_2027.jpg 800w",
+      "/images/gallery/human-made/IMG_2027.jpg 1600w"
+    ],
+    "alt": "IMG 2027",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2030",
+    "title": "IMG 2030",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_2030.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_2030.jpg 800w",
+      "/images/gallery/human-made/IMG_2030.jpg 1600w"
+    ],
+    "alt": "IMG 2030",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2869",
+    "title": "IMG 2869",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_2869.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_2869.jpg 800w",
+      "/images/gallery/human-made/IMG_2869.jpg 1600w"
+    ],
+    "alt": "IMG 2869",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2877",
+    "title": "IMG 2877",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_2877.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_2877.jpg 800w",
+      "/images/gallery/human-made/IMG_2877.jpg 1600w"
+    ],
+    "alt": "IMG 2877",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2887",
+    "title": "IMG 2887",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_2887.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_2887.jpg 800w",
+      "/images/gallery/human-made/IMG_2887.jpg 1600w"
+    ],
+    "alt": "IMG 2887",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2888",
+    "title": "IMG 2888",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_2888.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_2888.jpg 800w",
+      "/images/gallery/human-made/IMG_2888.jpg 1600w"
+    ],
+    "alt": "IMG 2888",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2903",
+    "title": "IMG 2903",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_2903.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_2903.jpg 800w",
+      "/images/gallery/human-made/IMG_2903.jpg 1600w"
+    ],
+    "alt": "IMG 2903",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2980",
+    "title": "IMG 2980",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_2980.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_2980.jpg 800w",
+      "/images/gallery/human-made/IMG_2980.jpg 1600w"
+    ],
+    "alt": "IMG 2980",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-2984",
+    "title": "IMG 2984",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_2984.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_2984.jpg 800w",
+      "/images/gallery/human-made/IMG_2984.jpg 1600w"
+    ],
+    "alt": "IMG 2984",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3035-1",
+    "title": "IMG 3035",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_3035 (1).jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_3035 (1).jpg 800w",
+      "/images/gallery/human-made/IMG_3035 (1).jpg 1600w"
+    ],
+    "alt": "IMG 3035",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3041",
+    "title": "IMG 3041",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_3041.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_3041.jpg 800w",
+      "/images/gallery/human-made/IMG_3041.jpg 1600w"
+    ],
+    "alt": "IMG 3041",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3047",
+    "title": "IMG 3047",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_3047.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_3047.jpg 800w",
+      "/images/gallery/human-made/IMG_3047.jpg 1600w"
+    ],
+    "alt": "IMG 3047",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3049",
+    "title": "IMG 3049",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_3049.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_3049.jpg 800w",
+      "/images/gallery/human-made/IMG_3049.jpg 1600w"
+    ],
+    "alt": "IMG 3049",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3056-1",
+    "title": "IMG 3056",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_3056 (1).jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_3056 (1).jpg 800w",
+      "/images/gallery/human-made/IMG_3056 (1).jpg 1600w"
+    ],
+    "alt": "IMG 3056",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3072",
+    "title": "IMG 3072",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_3072.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_3072.jpg 800w",
+      "/images/gallery/human-made/IMG_3072.jpg 1600w"
+    ],
+    "alt": "IMG 3072",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3079",
+    "title": "IMG 3079",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_3079.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_3079.jpg 800w",
+      "/images/gallery/human-made/IMG_3079.jpg 1600w"
+    ],
+    "alt": "IMG 3079",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3085",
+    "title": "IMG 3085",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_3085.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_3085.jpg 800w",
+      "/images/gallery/human-made/IMG_3085.jpg 1600w"
+    ],
+    "alt": "IMG 3085",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3108",
+    "title": "IMG 3108",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_3108.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_3108.jpg 800w",
+      "/images/gallery/human-made/IMG_3108.jpg 1600w"
+    ],
+    "alt": "IMG 3108",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3216-1",
+    "title": "IMG 3216",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_3216 (1).jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_3216 (1).jpg 800w",
+      "/images/gallery/human-made/IMG_3216 (1).jpg 1600w"
+    ],
+    "alt": "IMG 3216",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3262",
+    "title": "IMG 3262",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_3262.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_3262.jpg 800w",
+      "/images/gallery/human-made/IMG_3262.jpg 1600w"
+    ],
+    "alt": "IMG 3262",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3321",
+    "title": "IMG 3321",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_3321.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_3321.jpg 800w",
+      "/images/gallery/human-made/IMG_3321.jpg 1600w"
+    ],
+    "alt": "IMG 3321",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3332",
+    "title": "IMG 3332",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_3332.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_3332.jpg 800w",
+      "/images/gallery/human-made/IMG_3332.jpg 1600w"
+    ],
+    "alt": "IMG 3332",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
+  },
+  {
+    "id": "img-3605",
+    "title": "IMG 3605",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/IMG_3605.jpg",
+    "srcset": [
+      "/images/gallery/human-made/IMG_3605.jpg 800w",
+      "/images/gallery/human-made/IMG_3605.jpg 1600w"
+    ],
+    "alt": "IMG 3605",
+    "exif": {
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
+    },
+    "story": "Captured by Lorenzo LDS in Brazil."
   },
   {
     "id": "yellow-door",
     "title": "Yellow Door",
-    "category": "Macro",
-    "src": "/images/gallery/yellow_door.jpg",
+    "category": "Human-Made",
+    "src": "/images/gallery/human-made/yellow_door.jpg",
     "srcset": [
-      "/images/gallery/yellow_door.jpg 800w",
-      "/images/gallery/yellow_door.jpg 1600w"
+      "/images/gallery/human-made/yellow_door.jpg 800w",
+      "/images/gallery/human-made/yellow_door.jpg 1600w"
     ],
-    "alt": "Detail of yellow door texture",
+    "alt": "Yellow Door",
     "exif": {
-      "iso": 200,
-      "aperture": "f/8.0",
-      "shutter": "1/250",
-      "focal": "50mm"
+      "iso": "",
+      "aperture": "",
+      "shutter": "",
+      "focal": ""
     },
-    "story": "Placeholder story - add your photo description here."
+    "story": "Captured by Lorenzo LDS in Brazil.",
+    "favorite": true
   }
 ]

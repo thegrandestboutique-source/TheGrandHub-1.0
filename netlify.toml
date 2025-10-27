@@ -1,7 +1,21 @@
+# Netlify Configuration for TheGrandHub - Static Export
+
 [build]
   command = "npm run build"
-  publish = ".next"
+  publish = "out"
 
+[build.environment]
+  NODE_VERSION = "18"
+
+# Redirect for Next.js routes
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  force = false
+  conditions = {Role = ["guest"]}
+
+# 404 redirect
 [[redirects]]
   from = "/*"
   to = "/404.html"
