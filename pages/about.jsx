@@ -109,7 +109,7 @@ export default function About() {
           <h2 className="font-serif text-3xl mb-6 text-center">To my Flower</h2>
           <div className="max-w-2xl mx-auto text-center">
             <p className="text-lg leading-relaxed opacity-80">
-              To the one wihtout whom this project, and many others, would be just a speck of imagination, 
+              To the one without whom this project, and many others, would be just a speck of imagination, 
               my sincere thank you. You have rekindled the light of childish joy I had long forgotten. 
               You showed me love in a way I thought impossible, and only reserved for movies and books. 
               In all I am, you are. Without you, none of me would be. You are the poetry, the inspiration, 
