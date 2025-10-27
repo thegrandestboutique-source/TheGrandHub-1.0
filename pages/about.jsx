@@ -19,14 +19,10 @@ export default function About() {
           {/* Portrait */}
           <div className="md:col-span-1">
             <div className="aspect-square rounded-lg overflow-hidden mb-4">
-              <div 
-                className="w-full h-full"
-                style={{
-                  backgroundImage: 'url(/images/portrait-placeholder.jpg)',
-                  backgroundSize: 'cover',
-                  backgroundPosition: 'center',
-                  backgroundColor: 'var(--border)'
-                }}
+              <img
+                src="/images/other/20241021_223645.jpg"
+                alt="Lorenzo LDS"
+                className="w-full h-full object-cover"
               />
             </div>
             <div className="text-center">
@@ -104,6 +100,27 @@ export default function About() {
               research for better and unique angles. Photography has taught me to focus, think 
               differently, and improvise approaches—a practice that brings a lot of benefits to 
               the intensity of emergency medicine.
+            </p>
+          </div>
+        </div>
+
+        {/* Thanking */}
+        <div className="mt-16 pt-16 border-t" style={{ borderColor: 'var(--border)' }}>
+          <h2 className="font-serif text-3xl mb-6 text-center">To my Flower</h2>
+          <div className="max-w-2xl mx-auto text-center">
+            <p className="text-lg leading-relaxed opacity-80">
+              To the one wihtout whom this project, and many others, would be just a speck of imagination, 
+              my sincere thank you. You have rekindled the light of childish joy I had long forgotten. 
+              You showed me love in a way I thought impossible, and only reserved for movies and books. 
+              In all I am, you are. Without you, none of me would be. You are the poetry, the inspiration, 
+              and the beauty I have longed for in my imagination. No photo, no poem, no song, no painting 
+              will ever come close to the beauty you emanate.
+            </p>
+            <p className="text-lg leading-relaxed opacity-80">
+              To my Babs,
+            </p>
+            <p className="text-lg leading-relaxed opacity-80">
+              my eternal love
             </p>
           </div>
         </div>
