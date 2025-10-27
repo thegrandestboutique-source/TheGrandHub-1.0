@@ -125,6 +125,16 @@ export default function About() {
           </div>
         </div>
 
+       {/* Other */}
+        <div className="mt-16 pt-16 border-t" style={{ borderColor: 'var(--border)' }}>
+          <h2 className="font-serif text-3xl mb-6 text-center">Bonus</h2>
+          <div className="max-w-2xl mx-auto text-center">
+            <p className="text-lg leading-relaxed opacity-80">
+              It was 2:30 a.m. and I was in the final hours of my 48h shift in the Emergency Room. I was tired and hyper focused on finishing some changes to this Hub. I needed to add titles and descriptions to each of my photos, but found it easier to ask the AI to analyse each photo and do it for me. Needless to say the results were subpar, and in my tiredness, I did not double check them. Now, while revising, the titles were clear. Some of them made me laugh so much, I decided to keep them. So let's call it an Easter Egg.
+            </p>
+          </div>
+        </div>
+
         {/* Open Source & Privacy */}
         <div className="mt-16 pt-16 border-t" style={{ borderColor: 'var(--border)' }}>
           <div className="max-w-3xl mx-auto space-y-12">
