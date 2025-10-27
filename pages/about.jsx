@@ -117,7 +117,7 @@ export default function About() {
               will ever come close to the beauty you emanate.
             </p>
             <p className="text-lg leading-relaxed opacity-80">
-              To my Babs,
+              <strong>To my Babs,</strong>
             </p>
             <p className="text-lg leading-relaxed opacity-80">
               my eternal love

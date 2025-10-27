@@ -85,7 +85,7 @@ export default function Home() {
               <div
                 className="w-full h-full"
                 style={{
-                  backgroundImage: 'url(/images/gallery/macro/diabeetus.jpg)',
+                  backgroundImage: 'url(/images/gallery/macro/red-rose-drop.jpg)',
                   backgroundSize: 'cover',
                   backgroundPosition: 'center'
                 }}
