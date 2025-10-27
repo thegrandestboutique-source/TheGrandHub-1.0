@@ -9,6 +9,7 @@
       "/images/gallery/mumbojumbo_zilda.jpg 1600w"
     ],
     "alt": "Abstract representation of stones and earth textures",
+    "favorite": true,
     "exif": {
       "iso": 400,
       "aperture": "f/5.6",
@@ -27,6 +28,7 @@
       "/images/gallery/oranges.jpg 1600w"
     ],
     "alt": "Night sky photography with stars",
+    "favorite": true,
     "exif": {
       "iso": 3200,
       "aperture": "f/2.8",
@@ -171,6 +173,7 @@
       "/images/gallery/parrot_zilda.jpg 1600w"
     ],
     "alt": "Brazilian parrot portrait",
+    "favorite": true,
     "exif": {
       "iso": 800,
       "aperture": "f/5.6",

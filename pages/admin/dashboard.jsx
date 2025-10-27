@@ -3,12 +3,15 @@ import { useRouter } from 'next/router';
 import Head from 'next/head';
 import { useDropzone } from 'react-dropzone';
 import imagesData from '../../data/images.json';
+import categoriesData from '../../data/categories.json';
 
 export default function AdminDashboard() {
   const router = useRouter();
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [loading, setLoading] = useState(true);
   const [images, setImages] = useState(imagesData);
+  const [categories, setCategories] = useState(categoriesData);
+  const [categoryEditMode, setCategoryEditMode] = useState(null);
 
   // Upload form state
   const [uploadData, setUploadData] = useState({
@@ -161,6 +164,55 @@ export default function AdminDashboard() {
       }
     } catch (error) {
       alert('An error occurred during deletion');
+    }
+  };
+
+  // Toggle favorite status
+  const handleToggleFavorite = async (id, currentStatus) => {
+    try {
+      const response = await fetch('/api/images/toggle-favorite', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ id, favorite: !currentStatus }),
+      });
+
+      if (response.ok) {
+        await refreshImages();
+      } else {
+        const data = await response.json();
+        alert(data.error || 'Failed to update favorite status');
+      }
+    } catch (error) {
+      alert('An error occurred while updating favorite status');
+    }
+  };
+
+  // Update category placeholder
+  const handleUpdateCategoryPlaceholder = async (categoryId, imageSrc) => {
+    try {
+      const response = await fetch('/api/categories/update-placeholder', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ categoryId, placeholder: imageSrc }),
+      });
+
+      if (response.ok) {
+        const updatedCategories = categories.map(cat =>
+          cat.id === categoryId ? { ...cat, placeholder: imageSrc } : cat
+        );
+        setCategories(updatedCategories);
+        setCategoryEditMode(null);
+        alert('Category placeholder updated!');
+      } else {
+        const data = await response.json();
+        alert(data.error || 'Failed to update category placeholder');
+      }
+    } catch (error) {
+      alert('An error occurred while updating category placeholder');
     }
   };
 
@@ -405,6 +457,57 @@ export default function AdminDashboard() {
             </form>
           </div>
 
+          {/* Category Management Section */}
+          <div className="bg-background border border-border rounded-lg p-6 mb-8">
+            <h2 className="text-2xl font-serif text-foreground mb-6">Manage Category Placeholders</h2>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+              {categories.map((category) => (
+                <div key={category.id} className="border border-border rounded-lg overflow-hidden">
+                  <div className="relative aspect-square">
+                    <img
+                      src={category.placeholder}
+                      alt={category.name}
+                      className="w-full h-full object-cover"
+                    />
+                  </div>
+                  <div className="p-4 space-y-2">
+                    <h3 className="font-medium text-foreground">{category.name}</h3>
+                    <p className="text-xs text-foreground/60">{category.description}</p>
+                    <button
+                      onClick={() => setCategoryEditMode(categoryEditMode === category.id ? null : category.id)}
+                      className="w-full py-2 px-4 bg-accent/10 text-accent rounded-lg hover:bg-accent/20 transition-colors font-medium text-sm"
+                    >
+                      {categoryEditMode === category.id ? 'Cancel' : 'Change Placeholder'}
+                    </button>
+
+                    {categoryEditMode === category.id && (
+                      <div className="mt-4 pt-4 border-t border-border">
+                        <p className="text-xs text-foreground/60 mb-2">Select an image:</p>
+                        <div className="max-h-48 overflow-y-auto space-y-2">
+                          {images.filter(img => img.category === category.name).map((image) => (
+                            <button
+                              key={image.id}
+                              onClick={() => handleUpdateCategoryPlaceholder(category.id, image.src)}
+                              className="w-full flex items-center gap-2 p-2 rounded hover:bg-accent/5 transition-colors"
+                            >
+                              <img
+                                src={image.src}
+                                alt={image.title}
+                                className="w-12 h-12 object-cover rounded"
+                              />
+                              <span className="text-sm text-foreground truncate">{image.title}</span>
+                            </button>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+
           {/* Image Management Section */}
           <div className="bg-background border border-border rounded-lg p-6">
             <h2 className="text-2xl font-serif text-foreground mb-6">Manage Images</h2>
@@ -412,20 +515,39 @@ export default function AdminDashboard() {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {images.map((image) => (
                 <div key={image.id} className="border border-border rounded-lg overflow-hidden">
-                  <img
-                    src={image.src}
-                    alt={image.alt}
-                    className="w-full h-48 object-cover"
-                  />
+                  <div className="relative">
+                    <img
+                      src={image.src}
+                      alt={image.alt}
+                      className="w-full h-48 object-cover"
+                    />
+                    {image.favorite && (
+                      <div className="absolute top-2 right-2 bg-accent text-white px-2 py-1 rounded-full text-xs font-medium">
+                        ★ Favorite
+                      </div>
+                    )}
+                  </div>
                   <div className="p-4 space-y-2">
                     <h3 className="font-medium text-foreground">{image.title}</h3>
                     <p className="text-sm text-foreground/60">{image.category}</p>
-                    <button
-                      onClick={() => handleDelete(image.id)}
-                      className="w-full py-2 px-4 bg-red-500/10 text-red-500 rounded-lg hover:bg-red-500/20 transition-colors font-medium"
-                    >
-                      Delete
-                    </button>
+                    <div className="flex gap-2">
+                      <button
+                        onClick={() => handleToggleFavorite(image.id, image.favorite)}
+                        className={`flex-1 py-2 px-4 rounded-lg transition-colors font-medium text-sm ${
+                          image.favorite
+                            ? 'bg-accent/10 text-accent hover:bg-accent/20'
+                            : 'bg-border text-foreground hover:bg-accent/10'
+                        }`}
+                      >
+                        {image.favorite ? '★ Unfavorite' : '☆ Favorite'}
+                      </button>
+                      <button
+                        onClick={() => handleDelete(image.id)}
+                        className="flex-1 py-2 px-4 bg-red-500/10 text-red-500 rounded-lg hover:bg-red-500/20 transition-colors font-medium text-sm"
+                      >
+                        Delete
+                      </button>
+                    </div>
                   </div>
                 </div>
               ))}

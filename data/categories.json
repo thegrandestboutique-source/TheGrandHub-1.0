@@ -1,0 +1,26 @@
+[
+  {
+    "id": "macro",
+    "name": "Macro",
+    "description": "Close-up details and textures",
+    "placeholder": "/images/gallery/mumbojumbo_zilda.jpg"
+  },
+  {
+    "id": "wildlife",
+    "name": "Wildlife",
+    "description": "Nature's creatures in their habitat",
+    "placeholder": "/images/gallery/parrot_zilda.jpg"
+  },
+  {
+    "id": "night",
+    "name": "Night",
+    "description": "Stars, skies, and nightscapes",
+    "placeholder": "/images/gallery/oranges.jpg"
+  },
+  {
+    "id": "pets",
+    "name": "Pets",
+    "description": "Beloved companions and portraits",
+    "placeholder": "/images/gallery/remela_zilda.jpg"
+  }
+]
